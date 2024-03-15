@@ -1,6 +1,6 @@
 {
   "name": "ng-share-social-cards",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular library that provides pre-built share card components for various social media platforms",
   "keywords": ["share", "social", "cards", "angular", "ng", "facebook", "slack", "discord", "google", "pinterest", "twitter", "x", "linkedin"],
   "homepage": "https://github.com/luisvent/ng-share-social-cards#readme",

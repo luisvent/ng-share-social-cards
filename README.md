@@ -1,5 +1,8 @@
 # Social Share Cards for Angular
 
+[![NPM](https://nodei.co/npm/ng-share-social-cards.png)](https://www.npmjs.com/package/ng-share-social-cards/)
+
+
 This is an Angular library that provides pre-built share card components for various social media platforms. The library receives an object containing metadata for the content being shared and generates platform-specific share cards accordingly.
 
 <p align="center">
